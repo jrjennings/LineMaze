@@ -49,7 +49,7 @@ dVal     Action    Type intersection
 001         S            *Left Branch  
 101         L            Left turn (no straight path)      
 111        B            *End of line  
-0 11        S            Tracking Line  
+011        S            Tracking Line  
 (*) indicates an official intersection to be recorded in the path and used when optimizing the path.  
 
 L = left turn  
