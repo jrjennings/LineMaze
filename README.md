@@ -67,4 +67,4 @@ SBS = B
 LBL = S  
 
 
-![alt text](https://github.com/jrjennings/LineMaze/blob/[branch]/1.jpeg?raw=true)
+![alt text](https://github.com/jrjennings/LineMaze/blob/master/1.jpeg?raw=true)
