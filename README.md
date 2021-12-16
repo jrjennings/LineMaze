@@ -69,3 +69,5 @@ LBL = S
 
 ![alt text](https://github.com/jrjennings/LineMaze/blob/master/1.jpeg?raw=true)
 ![alt text](https://github.com/jrjennings/LineMaze/blob/master/2.jpeg?raw=true)
+![alt text](https://github.com/jrjennings/LineMaze/blob/master/LineMaze_schematic.pdf?raw=true)
+LineMaze_schematic.pdf
