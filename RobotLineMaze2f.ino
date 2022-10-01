@@ -1,7 +1,7 @@
 /*
 Line Maze Solving Robot
 by John Jennings
-johnrjennings@me.com
+johnrjennings at me dot com
 ##########################################################################################
 ##########################################################################################
 Major Components:
