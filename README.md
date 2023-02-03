@@ -45,12 +45,12 @@ dVal = irV[0] * 100 + irV[3] * 10 + irV[5] * 1
 |---|---|---|
 | 100 | S | * Right Branch |
 | 010 | L | * Tee |
-000----------L------------* 4Way  
-110----------R--------------Right Turn (no straight path)   
-001----------S------------* Left Branch  
-101----------L--------------Left turn (no straight path)      
-111----------B------------* End of line  
-011----------S--------------Tracking Line  
+| 000 | L | * 4Way |  
+| 110 | R | Right Turn (no straight path) |  
+| 001 | S | * Left Branch |
+| 101 | L | Left turn (no straight path) |     
+| 111 | B | * End of line |
+| 011 | S | Tracking Line |
 * = indicates an official intersection to be recorded 
 in the path and used when optimizing the path.  
 
