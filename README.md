@@ -29,12 +29,13 @@ PINS attached to CNY70 (IR) reflective sensors
         irPin3   -   irPin4   -    irPin5 -- Digital   
 
 L293D Truth Table   
-#########################################  
-Enable   1A  2A   function  
-H             H    L    Turn Right  
-H              L    H    Turn Left        
-H              H   H    Brake   
-L               X    X    Brake  
+#########################################
+| Enable | 1A | 2A | function |
+|---|---|---|---|
+| H | H | L | Turn Right |  
+| H | L | H | Turn Left |      
+| H | H | H | Brake | 
+| L | X | X | Brake | 
 
 Basic MAZE Logic  
 #########################################  
