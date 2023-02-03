@@ -22,8 +22,7 @@ This design steers the bot by reducing the motor rotation relative to sensor rea
 The more black the sensor sees the more reduction to motor rotation on that side.  
 The bot will navigate favoring the left turn at intersections on the initial run.  
 
-Arrangement of the CNY70 (IR) reflective sensors attached to their designated pins.
-
+Arrangement of the CNY70 (IR) reflective sensors attached to their designated pins.    
 #########################################  
 |  |  | | |  |  |
 |-|-|-|-|-|-|
