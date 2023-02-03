@@ -42,7 +42,7 @@ Formula for creating direction value dVal:
 dVal = irV[0] * 100 + irV[3] * 10 + irV[5] * 1  
 
 | dVal |Action | Type intersection | 
-|____|____|____|
+|---|---|---|
 | 100 | S | * Right Branch |
 | 010 | L | * Tee |
 000----------L------------* 4Way  
