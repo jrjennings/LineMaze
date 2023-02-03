@@ -22,11 +22,14 @@ This design steers the bot by reducing the motor rotation relative to sensor rea
 The more black the sensor sees the more reduction to motor rotation on that side.  
 The bot will navigate favoring the left turn at intersections on the initial run.  
 
-PINS attached to CNY70 (IR) reflective sensors  
+Arrangement of PINS attached to CNY70 (IR) reflective sensors  
 #########################################  
-                        irPin0 --------------- Digital  
-              irPin1   -   irPin2 ---------- Analog   
-        irPin3   -   irPin4   -    irPin5 -- Digital   
+|  |  | | |  |  |
+|-|-|-|-|-|-|
+|-|-| irPin0 |-|-| Digital |
+|-| irPin1 |-| irPin2 |-| Analog |
+| irPin3 |-| irPin4 |-| irPin5| Digital |
+  
 
 L293D Truth Table   
 #########################################
